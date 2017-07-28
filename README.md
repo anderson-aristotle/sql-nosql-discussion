@@ -35,7 +35,7 @@ following questions.
     their article?
 1.  Suppose this blog also had tags. Should tags appear on multiple articles?
     Which is the "parent" relation?
-1.  Contrast the strength "ownership" between blog posts and comments, and blog
+1.  Contrast the direction of "ownership" between blog posts and comments, and blog
     posts and tags.
 1.  Suppose you had to edit a tag. In a relational database, how many rows need
     to be changed (best and worst case)? In a document database, how many
