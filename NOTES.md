@@ -1,8 +1,16 @@
+# Delivery Notes
+
+## Whiteboard Diagram
+
+![](https://git.generalassemb.ly/storage/user/5688/files/2f89268c-923c-11e7-82d8-6a3b11608822)
+
+## Thought Provoking Questions
+
 1. #### According to Sarah Mei, what are the benefits of using MongoDB?
 The benefits of using MongoDB are that it is faster to query, and doesn't rely on messy things like a 7-join table in order to give you the data you are looking for.
 
 1. #### Why wasn't MongoDB a good fit for the project she was developing?
-MongoDB wasn't a good fit for their particular project because they were actually dealing with relational data, when they at first thought thay they 
+MongoDB wasn't a good fit for their particular project because they were actually dealing with relational data, when they at first thought thay they
 
 1. #### What should you consider when choosing MongoDB or a relational database like Postgres?
 You should consider whether your data is relational. If so, you should use a SQL database. Sarah Mei argues that pretty much all data is relational, and that you should only really use MongoDB is you don't care about the content of your data.
