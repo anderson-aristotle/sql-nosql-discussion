@@ -61,7 +61,6 @@ article changes the discussion. What have you learned?
 - [NoSQL Databases: An Overview | ThoughtWorks](http://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [When to choose CouchDB vs RDBMS?](http://stackoverflow.com/a/2731207/402618)
 - [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
-- [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/)
 
 ## [License](LICENSE)
 
