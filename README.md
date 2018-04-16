@@ -17,7 +17,7 @@ You should have read the following:
 
 - [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 - [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/)
-- [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 Take five minutes to review these readings. Just skim to refresh your memory.
 Then, take fifteen minutes to share your notes with your classmates and to
