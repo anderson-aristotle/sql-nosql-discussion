@@ -17,12 +17,12 @@ You should have read the following:
 
 - [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 - [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/)
-- [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 Take five minutes to review these readings. Just skim to refresh your memory.
-Then, take fifteen minutes to share your notes with your classmates and to
+Then, take fifteen minutes to share your notes with your team and to
 prepare for discussion. Discuss with each other and attempt to answer the
-following questions.
+questions in the following section.
 
 ## Discussion
 
@@ -61,7 +61,6 @@ article changes the discussion. What have you learned?
 - [NoSQL Databases: An Overview | ThoughtWorks](http://www.thoughtworks.com/insights/blog/nosql-databases-overview)
 - [When to choose CouchDB vs RDBMS?](http://stackoverflow.com/a/2731207/402618)
 - [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
-- [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/)
 
 ## [License](LICENSE)
 
